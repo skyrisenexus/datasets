@@ -6,13 +6,14 @@ This repository serves as a centralized collection of datasets used for various 
 
 ```
 datasets/
-├── README.md             # Main documentation
-├── reddit/               # Reddit-related datasets
-│   ├── README.md         # Reddit data documentation
-│   └── subreddits.json   # Subreddit configurations
-└── rss/                  # RSS feed datasets
-    ├── README.md         # RSS data documentation
-    └── rss_sources.json  # RSS feed configurations
+├── README.md                 # Main documentation
+├── data/                    # Data directory
+│   ├── reddit/             # Reddit-related datasets
+│   │   ├── README.md       # Reddit data documentation
+│   │   └── subreddits.json # Subreddit configurations
+│   └── rss/                # RSS feed datasets
+│       ├── README.md       # RSS data documentation
+│       └── rss_sources.json # RSS feed configurations
 ```
 
 ## 🎯 Overview
@@ -55,16 +56,16 @@ This project maintains a collection of datasets from various sources, primarily 
 ## 📊 Data Structure
 
 ### Reddit Data
-- Located in `/reddit/`
-- Configured via `subreddits.json`
+- Located in [`/data/reddit/`](https://github.com/skyrisenexus/datasets/blob/main/data/reddit)
+- Configured via [`subreddits.json`](https://github.com/skyrisenexus/datasets/blob/main/data/reddit/subreddits.json)
 - Includes metadata about subreddits and their categories
-- See [Reddit README](./reddit/README.md) for detailed information
+- See [Reddit README](https://github.com/skyrisenexus/datasets/blob/main/data/reddit/README.md) for detailed information
 
 ### RSS Sources
-- Located in `/rss/`
-- Configured via `rss_sources.json`
+- Located in [`/data/rss/`](https://github.com/skyrisenexus/datasets/blob/main/data/rss)
+- Configured via [`rss_sources.json`](https://github.com/skyrisenexus/datasets/blob/main/data/rss/rss_sources.json)
 - Supports multiple languages and regions
-- See [RSS README](./rss/README.md) for detailed information
+- See [RSS README](https://github.com/skyrisenexus/datasets/blob/main/data/rss/README.md) for detailed information
 
 ## 🛠 Usage
 

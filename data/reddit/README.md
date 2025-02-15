@@ -1,6 +1,6 @@
 # Reddit Data Collection
 
-This directory contains the `subreddits.json` file, which lists various technology and programming-related subreddits for data collection and analysis purposes.
+This directory contains the `subreddits.json` file, which lists various technology and programming-related subreddits for data collection and analysis purposes. The configuration file is located at [`subreddits.json`](https://github.com/skyrisenexus/datasets/blob/main/data/reddit/subreddits.json).
 
 ## 📊 Data Structure
 
@@ -84,11 +84,13 @@ The included subreddits cover various technology-related topics:
    ```
    https://www.reddit.com/r/{subreddit_name}.json
    ```
+   Example: [https://www.reddit.com/r/technology.json](https://www.reddit.com/r/technology.json)
 
 2. For subreddit metadata:
    ```
    https://www.reddit.com/r/{subreddit_name}/about.json
    ```
+   Example: [https://www.reddit.com/r/technology/about.json](https://www.reddit.com/r/technology/about.json)
 
 ### API Guidelines
 
