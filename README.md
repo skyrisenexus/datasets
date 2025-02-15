@@ -6,13 +6,13 @@ This repository serves as a centralized collection of datasets used for various 
 
 ```
 datasets/
-├── README.md                 # Main documentation
+├── README.md                # Main documentation
 ├── data/                    # Data directory
-│   ├── reddit/             # Reddit-related datasets
-│   │   ├── README.md       # Reddit data documentation
-│   │   └── subreddits.json # Subreddit configurations
-│   └── rss/                # RSS feed datasets
-│       ├── README.md       # RSS data documentation
+│   ├── reddit/              # Reddit-related datasets
+│   │   ├── README.md        # Reddit data documentation
+│   │   └── subreddits.json  # Subreddit configurations
+│   └── rss/                 # RSS feed datasets
+│       ├── README.md        # RSS data documentation
 │       └── rss_sources.json # RSS feed configurations
 ```
 
