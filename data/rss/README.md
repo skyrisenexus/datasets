@@ -11,10 +11,10 @@ The configuration file follows a hierarchical structure organized by language an
 ```json
 [
   {
-    "language_code": "tr",           // Language code (e.g., "tr" for Turkish)
-    "country_code": "TR",           // Country code
-    "locale": "tr-TR",             // Language-country locale
-    "language_name": "Türkçe",     // Language name
+    "language_code": "tr",            // Language code (e.g., "tr" for Turkish)
+    "country_code": "TR",             // Country code
+    "locale": "tr-TR",                // Language-country locale
+    "language_name": "Türkçe",        // Language name
     "last_updated": "2025-02-15T00:00:00Z",
     "sources": [
       {
@@ -23,8 +23,8 @@ The configuration file follows a hierarchical structure organized by language an
           "slug": "category-slug",    // URL-friendly category name
           "display": "Category Name"  // Display name of category
         },
-        "is_active": true,           // Whether the feed is active
-        "source_type": "standard",   // Type of RSS feed
+        "is_active": true,            // Whether the feed is active
+        "source_type": "standard",    // Type of RSS feed
         "last_updated": "2025-02-15T00:00:00Z"
       }
     ]
