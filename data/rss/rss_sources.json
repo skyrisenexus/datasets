@@ -4,7 +4,6 @@
     "country_code": "TR",
     "locale": "tr-TR",
     "language_name": "Türkçe",
-    "last_updated": "2025-02-15T00:00:00Z",
     "sources": [
       {
         "url": "https://www.ntv.com.tr/gundem.rss",
@@ -13,8 +12,7 @@
           "display": "Gündem"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.ntv.com.tr/dunya-kupasi-2018.rss",
@@ -23,8 +21,7 @@
           "display": "Spor"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.ntv.com.tr/turkiye.rss",
@@ -33,8 +30,7 @@
           "display": "Türkiye"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.ntv.com.tr/dunya.rss",
@@ -43,8 +39,7 @@
           "display": "Dünya"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.ntv.com.tr/ekonomi.rss",
@@ -53,8 +48,7 @@
           "display": "Ekonomi"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.ntv.com.tr/spor.rss",
@@ -63,8 +57,7 @@
           "display": "Spor"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.ntv.com.tr/teknoloji.rss",
@@ -73,8 +66,7 @@
           "display": "Teknoloji"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.ntv.com.tr/yasam.rss",
@@ -83,8 +75,7 @@
           "display": "Yaşam"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.ntv.com.tr/seyahat.rss",
@@ -93,8 +84,7 @@
           "display": "Seyahat"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.ntv.com.tr/saglik.rss",
@@ -103,8 +93,7 @@
           "display": "Sağlık"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.ntv.com.tr/sanat.rss",
@@ -113,8 +102,7 @@
           "display": "Sanat"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.ntv.com.tr/otomobil.rss",
@@ -123,8 +111,7 @@
           "display": "Otomobil"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.ntv.com.tr/egitim.rss",
@@ -133,8 +120,7 @@
           "display": "Eğitim"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.aa.com.tr/tr/rss/default?cat=guncel",
@@ -143,8 +129,7 @@
           "display": "Güncel"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.anayurtgazetesi.com/sondakika.xml",
@@ -153,8 +138,7 @@
           "display": "Son Dakika"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.cumhuriyet.com.tr/rss/son_dakika.xml",
@@ -163,8 +147,7 @@
           "display": "Son Dakika"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.cumhuriyet.com.tr/rss/6.xml",
@@ -173,8 +156,7 @@
           "display": "Genel"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.cumhuriyet.com.tr/rss/17.xml",
@@ -183,8 +165,7 @@
           "display": "Genel"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.cumhuriyet.com.tr/rss/73.xml",
@@ -193,8 +174,7 @@
           "display": "Genel"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.cumhuriyet.com.tr/rss/24.xml",
@@ -203,8 +183,7 @@
           "display": "Genel"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.cumhuriyet.com.tr/rss/32.xml",
@@ -213,8 +192,7 @@
           "display": "Genel"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.cumhuriyet.com.tr/rss/33.xml",
@@ -223,8 +201,7 @@
           "display": "Genel"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.cumhuriyet.com.tr/rss/34.xml",
@@ -233,8 +210,7 @@
           "display": "Genel"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.cumhuriyet.com.tr/rss/35.xml",
@@ -243,8 +219,7 @@
           "display": "Genel"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.cumhuriyet.com.tr/rss/36.xml",
@@ -253,8 +228,7 @@
           "display": "Genel"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.cumhuriyet.com.tr/rss/46.xml",
@@ -263,8 +237,7 @@
           "display": "Genel"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.cumhuriyet.com.tr/rss/70.xml",
@@ -273,8 +246,7 @@
           "display": "Genel"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.cumhuriyet.com.tr/rss/19.xml",
@@ -283,8 +255,7 @@
           "display": "Genel"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.cumhuriyet.com.tr/rss/7.xml",
@@ -293,8 +264,7 @@
           "display": "Genel"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.cumhuriyet.com.tr/rss/14.xml",
@@ -303,8 +273,7 @@
           "display": "Genel"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.cumhuriyet.com.tr/rss/15.xml",
@@ -313,8 +282,7 @@
           "display": "Genel"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.cumhuriyet.com.tr/rss/16.xml",
@@ -323,8 +291,7 @@
           "display": "Genel"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.cumhuriyet.com.tr/rss/20.xml",
@@ -333,8 +300,7 @@
           "display": "Genel"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.cumhuriyet.com.tr/rss/72.xml",
@@ -343,8 +309,7 @@
           "display": "Genel"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.cumhuriyet.com.tr/rss/12.xml",
@@ -353,8 +318,7 @@
           "display": "Genel"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.cumhuriyet.com.tr/rss/3.xml",
@@ -363,8 +327,7 @@
           "display": "Genel"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.cumhuriyet.com.tr/rss/9.xml",
@@ -373,8 +336,7 @@
           "display": "Genel"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.cumhuriyet.com.tr/rss/11.xml",
@@ -383,8 +345,7 @@
           "display": "Genel"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.cumhuriyet.com.tr/rss/10.xml",
@@ -393,8 +354,7 @@
           "display": "Genel"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.dunya.com/rss?dunya",
@@ -403,8 +363,7 @@
           "display": "Dünya"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.haberturk.com/rss",
@@ -413,8 +372,7 @@
           "display": "Genel"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.hurriyet.com.tr/rss/anasayfa",
@@ -423,8 +381,7 @@
           "display": "Genel"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.hurriyet.com.tr/rss/gundem",
@@ -433,8 +390,7 @@
           "display": "Gündem"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.hurriyet.com.tr/rss/ekonomi",
@@ -443,8 +399,7 @@
           "display": "Ekonomi"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.hurriyet.com.tr/rss/magazin",
@@ -453,8 +408,7 @@
           "display": "Magazin"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.hurriyet.com.tr/rss/spor",
@@ -463,8 +417,7 @@
           "display": "Spor"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.hurriyet.com.tr/rss/dunya",
@@ -473,8 +426,7 @@
           "display": "Dünya"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.hurriyet.com.tr/rss/teknoloji",
@@ -483,8 +435,7 @@
           "display": "Teknoloji"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.hurriyet.com.tr/rss/saglik",
@@ -493,8 +444,7 @@
           "display": "Sağlık"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.hurriyet.com.tr/rss/astroloji",
@@ -503,8 +453,7 @@
           "display": "Astroloji"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.milatgazetesi.com/rss.php",
@@ -513,8 +462,7 @@
           "display": "Genel"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.milliyet.com.tr/rss/rssNew/magazinRss.xml",
@@ -523,8 +471,7 @@
           "display": "Magazin"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.milliyet.com.tr/rss/rssNew/gundemRss.xml",
@@ -533,8 +480,7 @@
           "display": "Gündem"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.milliyet.com.tr/rss/rssNew/kitapRss.xml",
@@ -543,8 +489,7 @@
           "display": "Kültür"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.milliyet.com.tr/rss/rssNew/egitimRss.xml",
@@ -553,8 +498,7 @@
           "display": "Eğitim"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.milliyet.com.tr/rss/rssNew/dunyaRss.xml",
@@ -563,8 +507,7 @@
           "display": "Dünya"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.milliyet.com.tr/rss/rssNew/ekonomiRss.xml",
@@ -573,8 +516,7 @@
           "display": "Ekonomi"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.milliyet.com.tr/rss/rssNew/siyasetRss.xml",
@@ -583,8 +525,7 @@
           "display": "Siyaset"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.milliyet.com.tr/rss/rssNew/otomobilRss.xml",
@@ -593,8 +534,7 @@
           "display": "Otomobil"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.milliyet.com.tr/rss/rssNew/teknolojiRss.xml",
@@ -603,8 +543,7 @@
           "display": "Teknoloji"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.milliyet.com.tr/rss/rssNew/milliyettatilRss.xml",
@@ -613,8 +552,7 @@
           "display": "Tatiller"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.milliyet.com.tr/rss/rssNew/teknolojiRss.xml",
@@ -623,8 +561,7 @@
           "display": "Teknoloji"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.milliyet.com.tr/rss/rssNew/konutemlakRss.xml",
@@ -633,8 +570,7 @@
           "display": "Emlak"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.milliyet.com.tr/rss/rssNew/aileRss.xml",
@@ -643,8 +579,7 @@
           "display": "Aile"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.milliyet.com.tr/rss/rssNew/saglikRss.xml",
@@ -653,8 +588,7 @@
           "display": "Sağlık"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.milliyet.com.tr/rss/rssNew/yemekRss.xml",
@@ -663,8 +597,7 @@
           "display": "Yemek"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.milliyet.com.tr/rss/rssNew/diyetRss.xml",
@@ -673,8 +606,7 @@
           "display": "Sağlık"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.milliyet.com.tr/rss/rssNew/SonDakikaRss.xml",
@@ -683,8 +615,7 @@
           "display": "Son Dakika"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.sabah.com.tr/rss/ekonomi.xml",
@@ -693,8 +624,7 @@
           "display": "Ekonomi"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.sabah.com.tr/rss/spor.xml",
@@ -703,8 +633,7 @@
           "display": "Spor"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.sabah.com.tr/rss/gundem.xml",
@@ -713,8 +642,7 @@
           "display": "Gündem"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.sabah.com.tr/rss/yasam.xml",
@@ -723,8 +651,7 @@
           "display": "Yaşam"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.sabah.com.tr/rss/dunya.xml",
@@ -733,8 +660,7 @@
           "display": "Dünya"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.sabah.com.tr/rss/teknoloji.xml",
@@ -743,8 +669,7 @@
           "display": "Teknoloji"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.sabah.com.tr/rss/turizm.xml",
@@ -753,8 +678,7 @@
           "display": "Turizm"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.sabah.com.tr/rss/otomobil.xml",
@@ -763,8 +687,7 @@
           "display": "Otomobil"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.sabah.com.tr/rss/anasayfa.xml",
@@ -773,8 +696,7 @@
           "display": "Genel"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.sabah.com.tr/rss/saglik.xml",
@@ -783,8 +705,7 @@
           "display": "Sağlık"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.sabah.com.tr/rss/gununicinden.xml",
@@ -793,8 +714,7 @@
           "display": "Günün İncileri"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.sabah.com.tr/rss/sondakika.xml",
@@ -803,8 +723,7 @@
           "display": "Son Dakika"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.sabah.com.tr/rss/galatasaray.xml",
@@ -813,8 +732,7 @@
           "display": "Spor"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.sabah.com.tr/rss/fenerbahce.xml",
@@ -823,8 +741,7 @@
           "display": "Spor"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.sabah.com.tr/rss/besiktas.xml",
@@ -833,8 +750,7 @@
           "display": "Spor"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.sabah.com.tr/rss/trabzonspor.xml",
@@ -843,8 +759,7 @@
           "display": "Spor"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.sabah.com.tr/rss/bursaspor.xml",
@@ -853,8 +768,7 @@
           "display": "Spor"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.sabah.com.tr/rss/kultur-sanat.xml",
@@ -863,8 +777,7 @@
           "display": "Kültür-Sanat"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.sabah.com.tr/rss/oyun.xml",
@@ -873,8 +786,7 @@
           "display": "Eğlence"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.sabah.com.tr/rss/adana.xml",
@@ -883,8 +795,7 @@
           "display": "Yerel"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.star.com.tr/rss/rss.asp",
@@ -893,8 +804,7 @@
           "display": "Genel"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.star.com.tr/rss/rss.asp?cid=500",
@@ -903,8 +813,7 @@
           "display": "Genel"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.star.com.tr/rss/rss.asp?cid=13",
@@ -913,8 +822,7 @@
           "display": "Gündem"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.star.com.tr/rss/rss.asp?cid=15",
@@ -923,8 +831,7 @@
           "display": "Ekonomi"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.star.com.tr/rss/rss.asp?cid=16",
@@ -933,8 +840,7 @@
           "display": "Spor"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.star.com.tr/rss/rss.asp?cid=17",
@@ -943,8 +849,7 @@
           "display": "Magazin"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.star.com.tr/rss/rss.asp?cid=19",
@@ -953,8 +858,7 @@
           "display": "Dünya"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.star.com.tr/rss/rss.asp?cid=125",
@@ -963,8 +867,7 @@
           "display": "Teknoloji"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.star.com.tr/rss/rss.asp?cid=223",
@@ -973,8 +876,7 @@
           "display": "Kültür-Sanat"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.star.com.tr/rss/rss.asp?cid=130",
@@ -983,8 +885,7 @@
           "display": "Sağlık"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.star.com.tr/rss/rss.asp?cid=170",
@@ -993,8 +894,7 @@
           "display": "Eğitim"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.takvim.com.tr/rss/anasayfa.xml",
@@ -1003,8 +903,7 @@
           "display": "Genel"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.takvim.com.tr/rss/son24saat.xml",
@@ -1013,8 +912,7 @@
           "display": "Son Dakika"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.takvim.com.tr/rss/guncel.xml",
@@ -1023,8 +921,7 @@
           "display": "Güncel"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.takvim.com.tr/rss/ekonomi.xml",
@@ -1033,8 +930,7 @@
           "display": "Ekonomi"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.takvim.com.tr/rss/otomobil.xml",
@@ -1043,8 +939,7 @@
           "display": "Otomobil"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.takvim.com.tr/rss/saklambac.xml",
@@ -1053,8 +948,7 @@
           "display": "Eğlence"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.takvim.com.tr/rss/spor.xml",
@@ -1063,8 +957,7 @@
           "display": "Spor"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.takvim.com.tr/rss/yasam.xml",
@@ -1073,8 +966,7 @@
           "display": "Yaşam"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.takvim.com.tr/rss/video.xml",
@@ -1083,8 +975,7 @@
           "display": "Video"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.takvim.com.tr/rss/televizyon.xml",
@@ -1093,8 +984,7 @@
           "display": "Televizyon"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.turkiyegazetesi.com.tr/rss/rss.xml",
@@ -1103,8 +993,7 @@
           "display": "Genel"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://mix.chimpfeedr.com/68482-Vatan-Gazetesi",
@@ -1113,8 +1002,7 @@
           "display": "Genel"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.yeniakit.com.tr/rss/haber",
@@ -1123,8 +1011,7 @@
           "display": "Genel"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.yeniakit.com.tr/rss/haber/ekonomi",
@@ -1133,8 +1020,7 @@
           "display": "Ekonomi"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.yeniakit.com.tr/rss/haber/gunun-mansetleri",
@@ -1143,8 +1029,7 @@
           "display": "Günün Mansetleri"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.yeniakit.com.tr/rss/haber/bugunku-akit",
@@ -1153,8 +1038,7 @@
           "display": "Bugünkü Akit"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.yeniakit.com.tr/rss/haber/ozel-haber",
@@ -1163,8 +1047,7 @@
           "display": "Özel Haber"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.yeniakit.com.tr/rss/haber/gundem",
@@ -1173,8 +1056,7 @@
           "display": "Gündem"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.yeniakit.com.tr/rss/haber/siyaset",
@@ -1183,8 +1065,7 @@
           "display": "Siyaset"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.yeniakit.com.tr/rss/haber/dunya",
@@ -1193,8 +1074,7 @@
           "display": "Dünya"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.yeniakit.com.tr/rss/haber/teknoloji",
@@ -1203,8 +1083,7 @@
           "display": "Teknoloji"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.yeniakit.com.tr/rss/haber/spor",
@@ -1213,8 +1092,7 @@
           "display": "Spor"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.yeniakit.com.tr/rss/haber/aktuel",
@@ -1223,8 +1101,7 @@
           "display": "Aktüel"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.yeniakit.com.tr/rss/haber/kultur-sanat",
@@ -1233,8 +1110,7 @@
           "display": "Kültür-Sanat"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.yeniakit.com.tr/rss/haber/otomotiv",
@@ -1243,8 +1119,7 @@
           "display": "Otomotiv"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.yeniakit.com.tr/rss/haber/emlak",
@@ -1253,8 +1128,7 @@
           "display": "Emlak"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.yeniakit.com.tr/rss/haber/saglik",
@@ -1263,8 +1137,7 @@
           "display": "Sağlık"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.yeniakit.com.tr/rss/haber/medya",
@@ -1273,8 +1146,7 @@
           "display": "Medya"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.yeniakit.com.tr/rss/haber/yasam",
@@ -1283,8 +1155,7 @@
           "display": "Yaşam"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.yeniakit.com.tr/rss/haber/yerel",
@@ -1293,8 +1164,7 @@
           "display": "Yerel"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.yeniakit.com.tr/rss/haber/egitim",
@@ -1303,8 +1173,7 @@
           "display": "Eğitim"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.yeniakit.com.tr/rss/video/bilim-teknoloji",
@@ -1313,8 +1182,7 @@
           "display": "Bilim & Teknoloji"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.yeniakit.com.tr/rss/video/15temmuz",
@@ -1323,8 +1191,7 @@
           "display": "Özel"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.yeniakit.com.tr/rss/video/cocuk-egitim",
@@ -1333,8 +1200,7 @@
           "display": "Eğitim"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.yeniakit.com.tr/rss/video/dunya",
@@ -1343,8 +1209,7 @@
           "display": "Dünya"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.yeniakit.com.tr/rss/video/ekonomi",
@@ -1353,8 +1218,7 @@
           "display": "Ekonomi"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.yeniakit.com.tr/rss/video/emlak-rehberi",
@@ -1363,8 +1227,7 @@
           "display": "Emlak"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.yeniakit.com.tr/rss/video/gezi",
@@ -1373,8 +1236,7 @@
           "display": "Seyahat"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.yeniakit.com.tr/rss/video/guncel",
@@ -1383,8 +1245,7 @@
           "display": "Güncel"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.yeniakit.com.tr/rss/video/gundem",
@@ -1393,8 +1254,7 @@
           "display": "Gündem"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.yeniakit.com.tr/rss/video/hayat-aktuel",
@@ -1403,8 +1263,7 @@
           "display": "Yaşam"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.yeniakit.com.tr/rss/video/islam",
@@ -1413,8 +1272,7 @@
           "display": "Din"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.yeniakit.com.tr/rss/video/kultur-sanat",
@@ -1423,8 +1281,7 @@
           "display": "Kültür-Sanat"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.yeniakit.com.tr/rss/video/medya",
@@ -1433,8 +1290,7 @@
           "display": "Medya"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.yeniakit.com.tr/rss/video/ramazan",
@@ -1443,8 +1299,7 @@
           "display": "Dini"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.yeniakit.com.tr/rss/video/siyaset",
@@ -1453,8 +1308,7 @@
           "display": "Siyaset"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.yeniakit.com.tr/rss/video/spor",
@@ -1463,8 +1317,7 @@
           "display": "Spor"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.yeniakit.com.tr/rss/video/trafik-kazalari",
@@ -1473,8 +1326,7 @@
           "display": "Olaylar"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.yeniakit.com.tr/rss/video/turkiye",
@@ -1483,8 +1335,7 @@
           "display": "Türkiye"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.yeniakit.com.tr/rss/video/yasam",
@@ -1493,8 +1344,7 @@
           "display": "Yaşam"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.yeniakit.com.tr/rss/video/yerel",
@@ -1503,8 +1353,7 @@
           "display": "Yerel"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.yeniasir.com.tr/rss/anasayfa.xml",
@@ -1513,8 +1362,7 @@
           "display": "Genel"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.yenimesaj.com.tr/rss.php",
@@ -1523,8 +1371,7 @@
           "display": "Genel"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.yenisafak.com/Rss",
@@ -1533,8 +1380,7 @@
           "display": "Genel"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.yenisafak.com/rss?xml=gundem",
@@ -1543,8 +1389,7 @@
           "display": "Gündem"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.yenisafak.com/rss?xml=spor",
@@ -1553,8 +1398,7 @@
           "display": "Spor"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.yenisafak.com/rss?xml=ekonomi",
@@ -1563,8 +1407,7 @@
           "display": "Ekonomi"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.yenisafak.com/rss?xml=teknoloji",
@@ -1573,8 +1416,7 @@
           "display": "Teknoloji"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.yenisafak.com/rss?xml=hayat",
@@ -1583,8 +1425,7 @@
           "display": "Yaşam"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.yenisafak.com/rss?xml=dunya",
@@ -1593,8 +1434,7 @@
           "display": "Dünya"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.yenisafak.com/rss?xml=yazarlar",
@@ -1603,8 +1443,7 @@
           "display": "Yazarlar"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.yurtgazetesi.com.tr/rss.php",
@@ -1613,8 +1452,7 @@
           "display": "Genel"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.ahaber.com.tr/rss/anasayfa.xml",
@@ -1623,8 +1461,7 @@
           "display": "Genel"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.ahaber.com.tr/rss/gundem.xml",
@@ -1633,8 +1470,7 @@
           "display": "Gündem"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.ahaber.com.tr/rss/ekonomi.xml",
@@ -1643,8 +1479,7 @@
           "display": "Ekonomi"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.ahaber.com.tr/rss/spor.xml",
@@ -1653,8 +1488,7 @@
           "display": "Spor"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.ahaber.com.tr/rss/yasam.xml",
@@ -1663,8 +1497,7 @@
           "display": "Yaşam"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.ahaber.com.tr/rss/dunya.xml",
@@ -1673,8 +1506,7 @@
           "display": "Dünya"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.ahaber.com.tr/rss/son24saat.xml",
@@ -1683,8 +1515,7 @@
           "display": "Son Dakika"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.ahaber.com.tr/rss/teknoloji.xml",
@@ -1693,8 +1524,7 @@
           "display": "Teknoloji"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.ahaber.com.tr/rss/magazin.xml",
@@ -1703,8 +1533,7 @@
           "display": "Magazin"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.ahaber.com.tr/rss/otomobil.xml",
@@ -1713,8 +1542,7 @@
           "display": "Otomobil"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.ahaber.com.tr/rss/haberler.xml",
@@ -1723,8 +1551,7 @@
           "display": "Haberler"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.ahaber.com.tr/rss/din.xml",
@@ -1733,8 +1560,7 @@
           "display": "Din"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.ahaber.com.tr/rss/tarih.xml",
@@ -1743,8 +1569,7 @@
           "display": "Tarih"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.ahaber.com.tr/rss/analiz.xml",
@@ -1753,8 +1578,7 @@
           "display": "Analiz"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.ahaber.com.tr/rss/saglik.xml",
@@ -1763,8 +1587,7 @@
           "display": "Sağlık"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.cnnturk.com/feed/rss/all/news",
@@ -1773,8 +1596,7 @@
           "display": "Genel"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.cnnturk.com/feed/rss/turkiye/news",
@@ -1783,8 +1605,7 @@
           "display": "Türkiye"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.cnnturk.com/feed/rss/dunya/news",
@@ -1793,8 +1614,7 @@
           "display": "Dünya"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.cnnturk.com/feed/rss/kultur-sanat/news",
@@ -1803,8 +1623,7 @@
           "display": "Kültür-Sanat"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.cnnturk.com/feed/rss/bilim-teknoloji/news",
@@ -1813,8 +1632,7 @@
           "display": "Bilim & Teknoloji"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.cnnturk.com/feed/rss/yasam/news",
@@ -1823,8 +1641,7 @@
           "display": "Yaşam"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.cnnturk.com/feed/rss/magazin/news",
@@ -1833,8 +1650,7 @@
           "display": "Magazin"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.cnnturk.com/feed/rss/ekonomi/news",
@@ -1843,8 +1659,7 @@
           "display": "Ekonomi"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.cnnturk.com/feed/rss/spor/news",
@@ -1853,8 +1668,7 @@
           "display": "Spor"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.cnnturk.com/feed/rss/saglik/news",
@@ -1863,8 +1677,7 @@
           "display": "Sağlık"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.cnnturk.com/feed/rss/otomobil/news",
@@ -1873,8 +1686,7 @@
           "display": "Otomobil"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.cnnturk.com/feed/rss/seyahat/news",
@@ -1883,8 +1695,7 @@
           "display": "Seyahat"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.cnnturk.com/feed/rss/all/video",
@@ -1893,8 +1704,7 @@
           "display": "Video"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.cnnturk.com/feed/rss/turkiye/video",
@@ -1903,8 +1713,7 @@
           "display": "Video"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.cnnturk.com/feed/rss/dunya/video",
@@ -1913,8 +1722,7 @@
           "display": "Video"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.cnnturk.com/feed/rss/kultur-sanat/video",
@@ -1923,8 +1731,7 @@
           "display": "Video"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.cnnturk.com/feed/rss/bilim-teknoloji/video",
@@ -1933,8 +1740,7 @@
           "display": "Video"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.cnnturk.com/feed/rss/yasam/video",
@@ -1943,8 +1749,7 @@
           "display": "Video"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.cnnturk.com/feed/rss/magazin/video",
@@ -1953,8 +1758,7 @@
           "display": "Video"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.cnnturk.com/feed/rss/ekonomi/video",
@@ -1963,8 +1767,7 @@
           "display": "Video"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.cnnturk.com/feed/rss/spor/video",
@@ -1973,8 +1776,7 @@
           "display": "Video"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.cnnturk.com/feed/rss/saglik/video",
@@ -1983,8 +1785,7 @@
           "display": "Video"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.cnnturk.com/feed/rss/otomobil/video",
@@ -1993,8 +1794,7 @@
           "display": "Video"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.cnnturk.com/feed/rss/seyahat/video",
@@ -2003,8 +1803,7 @@
           "display": "Video"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.cnnturk.com/feed/rss/all/gallery",
@@ -2013,8 +1812,7 @@
           "display": "Galeri"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.cnnturk.com/feed/rss/turkiye/gallery",
@@ -2023,8 +1821,7 @@
           "display": "Galeri"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.cnnturk.com/feed/rss/dunya/gallery",
@@ -2033,8 +1830,7 @@
           "display": "Galeri"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.cnnturk.com/feed/rss/kultur-sanat/gallery",
@@ -2043,8 +1839,7 @@
           "display": "Galeri"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.cnnturk.com/feed/rss/bilim-teknoloji/gallery",
@@ -2053,8 +1848,7 @@
           "display": "Galeri"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.cnnturk.com/feed/rss/yasam/gallery",
@@ -2063,8 +1857,7 @@
           "display": "Galeri"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.cnnturk.com/feed/rss/magazin/gallery",
@@ -2073,8 +1866,7 @@
           "display": "Galeri"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.cnnturk.com/feed/rss/ekonomi/gallery",
@@ -2083,8 +1875,7 @@
           "display": "Galeri"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.cnnturk.com/feed/rss/spor/gallery",
@@ -2093,8 +1884,7 @@
           "display": "Galeri"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.cnnturk.com/feed/rss/saglik/gallery",
@@ -2103,8 +1893,7 @@
           "display": "Galeri"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.cnnturk.com/feed/rss/otomobil/gallery",
@@ -2113,8 +1902,7 @@
           "display": "Galeri"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.cnnturk.com/feed/rss/seyahat/gallery",
@@ -2123,8 +1911,7 @@
           "display": "Galeri"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.haberturk.com/rss",
@@ -2133,8 +1920,7 @@
           "display": "Genel"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.trthaber.com/sondakika.rss",
@@ -2143,8 +1929,7 @@
           "display": "Son Dakika"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.ulusal.com.tr/rss.php",
@@ -2153,8 +1938,7 @@
           "display": "Genel"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.acikgazete.com/feed/",
@@ -2163,8 +1947,7 @@
           "display": "Genel"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.ajanshaber.com/rss",
@@ -2173,8 +1956,7 @@
           "display": "Genel"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.aygazete.com/rss/gundem-haberleri",
@@ -2183,8 +1965,7 @@
           "display": "Gündem"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://feeds.bbci.co.uk/turkce/rss.xml",
@@ -2193,8 +1974,7 @@
           "display": "Genel"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://rss.dw.com/rdf/rss-tur-all",
@@ -2203,8 +1983,7 @@
           "display": "Genel"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.ensonhaber.com/rss/ensonhaber.xml",
@@ -2213,8 +1992,7 @@
           "display": "Genel"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.mynet.com/magazin/rss",
@@ -2223,8 +2001,7 @@
           "display": "Magazin"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.sinema.mynet.com/rss/RSS-enyeniler/rss.xml",
@@ -2233,8 +2010,7 @@
           "display": "Sinema"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.spor.mynet.com/rss",
@@ -2243,8 +2019,7 @@
           "display": "Spor"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.mynet.com/haber/rss/sondakika",
@@ -2253,8 +2028,7 @@
           "display": "Son Dakika"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.mynet.com/haber/rss/gununozeti/",
@@ -2263,8 +2037,7 @@
           "display": "Günün Özeti"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.mynet.com/haber/rss/kategori/politika/",
@@ -2273,8 +2046,7 @@
           "display": "Politika"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.mynet.com/haber/rss/kategori/teknoloji/",
@@ -2283,8 +2055,7 @@
           "display": "Teknoloji"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.mynet.com/haber/rss/kategori/dunya/",
@@ -2293,8 +2064,7 @@
           "display": "Dünya"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.mynet.com/haber/rss/kategori/yasam/",
@@ -2303,8 +2073,7 @@
           "display": "Yaşam"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.mynet.com/haber/rss/kategori/magazin/",
@@ -2313,8 +2082,7 @@
           "display": "Magazin"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.mynet.com/haber/rss/kategori/saglik/",
@@ -2323,8 +2091,7 @@
           "display": "Sağlık"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.yurthaber.mynet.com/rss/kategori/ana/rss.xml",
@@ -2333,8 +2100,7 @@
           "display": "Genel"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://tr.sputniknews.com/export/rss2/archive/index.xml",
@@ -2343,8 +2109,7 @@
           "display": "Genel"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.turkiyehaberajansi.com/rss.xml",
@@ -2353,8 +2118,7 @@
           "display": "Genel"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.internethaber.com/rss",
@@ -2363,8 +2127,7 @@
           "display": "Genel"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.finansgundem.com/rss",
@@ -2373,8 +2136,7 @@
           "display": "Ekonomi"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.tobb.org.tr/Sayfalar/RssFeeder.php?List=Haberler",
@@ -2383,8 +2145,7 @@
           "display": "Haberler"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.tobb.org.tr/Sayfalar/RssFeeder.php?List=DuyurularListesi",
@@ -2393,8 +2154,7 @@
           "display": "Duyurular"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.tobb.org.tr/Sayfalar/RssFeeder.php?List=MansetListesi",
@@ -2403,8 +2163,7 @@
           "display": "Manset"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://bigpara.hurriyet.com.tr/rss/",
@@ -2413,8 +2172,7 @@
           "display": "Ekonomi"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       },
       {
         "url": "https://www.ekoseyir.com/rss/piyasalar/248.xml",
@@ -2423,8 +2181,7 @@
           "display": "Piyasalar"
         },
         "is_active": true,
-        "source_type": "standard",
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"
       }
     ]
   }

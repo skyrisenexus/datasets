@@ -15,22 +15,36 @@ The configuration file follows a hierarchical structure organized by language an
     "country_code": "TR",             // Country code
     "locale": "tr-TR",                // Language-country locale
     "language_name": "Türkçe",        // Language name
-    "last_updated": "2025-02-15T00:00:00Z",
     "sources": [
       {
         "url": "https://www.example.com/feed.rss",
         "category": {
-          "slug": "category-slug",    // URL-friendly category name
-          "display": "Category Name"  // Display name of category
+          "slug": "category-slug",           // URL-friendly category name
+          "display": "Category Name"         // Display name of category
         },
         "is_active": true,            // Whether the feed is active
-        "source_type": "standard",    // Type of RSS feed
-        "last_updated": "2025-02-15T00:00:00Z"
+        "source_type": "standard"     // Type of RSS feed
       }
     ]
   }
 ]
 ```
+
+### Property Descriptions
+
+#### Language Level Properties
+- `language_code`: Two-letter ISO 639-1 language code (e.g., "tr" for Turkish)
+- `country_code`: Two-letter ISO 3166-1 alpha-2 country code (e.g., "TR" for Turkey)
+- `locale`: Combined language-country code (e.g., "tr-TR")
+- `language_name`: Full name of the language in its native form
+
+#### Source Level Properties
+- `url`: Complete URL to the RSS feed
+- `category`: Object containing categorization information
+  - `slug`: URL-friendly version of the category name
+  - `display`: Human-readable category name
+- `is_active`: Boolean indicating if the feed is currently active
+- `source_type`: Type of RSS feed (e.g., "standard", "custom", etc.)
 
 ### News Sources
 
@@ -113,7 +127,5 @@ Most feeds follow standard RSS 2.0 format with:
 - Feed structures may change
 
 ---
-
-*Last updated: [Current Date]*
 
 For questions or issues, please create a GitHub issue or contact the maintainers.
